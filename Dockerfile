@@ -1,4 +1,4 @@
-FROM python:3.10.9-bullseye
+FROM python:3.12.1-bullseye
 
 EXPOSE 9808
 
